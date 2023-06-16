@@ -38,7 +38,7 @@ You can try it out yourself by cloning the repo and following the instructions b
 
 ```bash
 git clone https://github.com/fzubayer/practice.git
-cd nextjs-express-redis-microservice-architecture
+cd practice
 docker compose up
 ```
 
